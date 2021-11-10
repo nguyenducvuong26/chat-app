@@ -1,0 +1,33 @@
+.wrapper {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.infor {
+    display: flex;
+}
+
+.current-user-message {
+    flex-direction: row-reverse;
+}
+
+.current-user-avatar {
+    margin-right: 16px;
+}
+
+.message {
+    padding: 10px 14px;
+    background-color: #e4e6eb;
+    border-radius: 18px;
+    margin: 0 8px;
+}
+
+.username {
+    margin-left: 48px;
+}
+
+.username p {
+    font-size: 0.7rem;
+}
